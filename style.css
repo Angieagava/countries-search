@@ -21,10 +21,13 @@ li {
 button {  
   margin-top: 10px;
   margin-bottom: 10px;
+  border-radius: 25px;
 }
 
 .form-control {
-    margin-top: 10px; 
-    margin: 0 auto;
-    width: 60%;
+    margin: 5% auto 0;
+    width: 40%;
+    height: 50px;
+    border-radius: 25px;
+    text-align: center;
 }
