@@ -8,7 +8,7 @@ body {
   text-align: center;
   background: #eee;
   font-family: 'Titillium Web', sans-serif;
-  background-image: radial-gradient(rgba(19, 96, 103,.6),rgba(19, 97, 103,.6)),url('https://images.pexels.com/photos/386025/pexels-photo-386025.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+  background-image:url('https://images.pexels.com/photos/386025/pexels-photo-386025.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
   background-size: cover;
 }
 
@@ -28,6 +28,7 @@ li {
 p {
   padding: 5%;
   border: 1px solid #fff;
+  background: radial-gradient(rgba(19, 96, 103,.6),rgba(19, 97, 103,.6));
 }
 
 .btn {  
